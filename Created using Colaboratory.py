@@ -1,4 +1,5 @@
-//Fredy H Lopez
+//Author: Fredy H Lopez
+//Title: Wordsmith AI 
 
 
 %tensorflow_version 2.x  # this line is not required unless you are in a notebook
